@@ -3,7 +3,7 @@ ruby '2.1.4'
 
 gem 'thor'
 gem 'pry', '~> 0.9.12'
-gem 'activesupport', '~> 4.0', require: false
+gem 'activesupport', '~> 4.2', require: false
 gem 'yajl-ruby', require: false
 
 group :app do
